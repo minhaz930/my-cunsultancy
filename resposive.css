@@ -1,0 +1,23 @@
+@media (max-width:1200px) {
+    .navbar_right ul li {
+        padding-left: 45px;
+        list-style: none;
+    }
+
+}
+
+@media (max-width:900px) {
+
+    .navbar_left span {
+        display: none;
+    }
+}
+@media (max-width:1200px) {
+
+    .navbar_left span {
+        font-size: 12px;
+    }
+}
+
+/* ============================================ */
+/* ========== TABLET VIEW (max-width: 992px) ========== */
